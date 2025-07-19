@@ -103,3 +103,35 @@ SỰ THẬT về Xây Dựng Website Từ Số 0 | Roadmap Học Lập Trình T�
         Hoặc  viết đầy đủ là npm install library_name- file package.json- 1 vài câu lệnh
 
 #10. Hello world với Node.js (Basic) | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+        git init
+
+        git add .
+
+        git commit -m 'init project'
+
+        git remote add origin https://github.com/Will-Elite/udemy-fullstack-backend-zero.git
+
+        git push origin master
+
+#11. Các Thành Phần của URL (Bổ Trợ) | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+
+#12. Hello world với Node.js (Advance) | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+        const http = require('http'); // node.js
+
+        const hostname = '127.0.0.1';//localhost
+        const port = 3000;
+
+        const server = http.createServer((req, res) => {
+        res.statusCode = 200;
+        res.setHeader('Content-Type', 'text/plain');
+        res.end('Hello World\n Hoi dan IT');
+        });
+
+        server.listen(port, hostname, () => {
+        console.log(`Server running at http://${hostname}:${port}/`);
+        });
+#13 Cài Đặt Thư Viện Node.JS với NPM | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+        câu lệnh init
+                npm init
+        
+        
