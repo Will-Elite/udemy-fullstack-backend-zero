@@ -134,4 +134,16 @@ SỰ THẬT về Xây Dựng Website Từ Số 0 | Roadmap Học Lập Trình T�
         câu lệnh init
                 npm init
         
-        
+#14. Hello world với Express | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+         npm run dev
+
+#15. Do we need Babel ?| Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+
+#16. Mô hình hoạt động của Express | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners   
+
+#17. More routes | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+
+#18. Template (View) Engine | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+        npm install --save-exact ejs@3.1.8
+
+#19. ENV (Environment Variables) | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
