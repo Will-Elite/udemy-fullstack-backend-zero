@@ -147,3 +147,11 @@ SỰ THẬT về Xây Dựng Website Từ Số 0 | Roadmap Học Lập Trình T�
         npm install --save-exact ejs@3.1.8
 
 #19. ENV (Environment Variables) | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+
+#20. DevTool - Nodemon| Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+
+#21. Static files | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+
+#22. Mô hình MVC với Node.JS | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
+
+#24. Áp dụng mô hình MVC với Node.js (Part 1) | Node.JS (SQL/MongoDB) Cho Beginners
