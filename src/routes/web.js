@@ -1,17 +1,13 @@
 const express = require('express');
+const { getHomepage, getABC, getHoiDanIT } = require('../controllers/homeController');
 const router = express.Router();
 
-router.get('/', (req, res) => {
-    res.send('Hello World!')
-})
+// router.Method('/route', handler);
 
-router.get('/abc', (req, res) => {
-    res.send('check ABC')
-})
+router.get('/', getHomepage);
 
-router.get('/hoidanit', (req, res) => {
-    //res.send('<h1>hoi dan it voi Will </h1>')
-    res.render('sample.ejs')
-})
+router.get('/abc', getABC);
+
+router.get('/hoidanit', getHoiDanIT);
 
 module.exports = router; //export dafel

@@ -155,3 +155,20 @@ SỰ THẬT về Xây Dựng Website Từ Số 0 | Roadmap Học Lập Trình T�
 #22. Mô hình MVC với Node.JS | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
 
 #24. Áp dụng mô hình MVC với Node.js (Part 1) | Node.JS (SQL/MongoDB) Cho Beginners
+
+#25. Áp dụng mô hình MVC với Node.js (Part 2) | Node.JS (SQL/MongoDB) Cho Beginners
+
+#26. Why Docker - Tại Sao Dùng Docker | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#27. Sử dụng Docker | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+ #28. Docker Hub
+        #1 DOCKER LÀ GÌ - TẠI SAO CHÚNG TA LẠI CẦN DOCKER ? | Docker Siêu Dễ Cho Người Mới Bắt Đầu
+        #2 GETTING STARTED VỚI DOCKER DESKTOP - CHUẨN BỊ MÔI TRƯỜNG CHO DOCKER |Docker Siêu Dễ Cho Beginner
+        
+
+#29. Relational Database - Chạy MySQL với Docker | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#30. Sử Dụng MySQL với Node.JS | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#31. Tái Sử Dụng Connection | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
