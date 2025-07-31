@@ -109,8 +109,9 @@ SỰ THẬT về Xây Dựng Website Từ Số 0 | Roadmap Học Lập Trình T�
 
         git commit -m 'init project'
 
-        git remote add origin https://github.com/Will-Elite/udemy-fullstack-backend-zero.git
+        //git remote add origin https://github.com/Will-Elite/udemy-fullstack-backend-zero.git
 
+        git remote set-url origin https://github.com/Will-Elite/udemy-fullstack-backend-zero.git
         git push origin master
 
 #11. Các Thành Phần của URL (Bổ Trợ) | Backend RESTFul Server Node.JS (SQL/MongoDB) Cho Beginners
@@ -172,3 +173,19 @@ SỰ THẬT về Xây Dựng Website Từ Số 0 | Roadmap Học Lập Trình T�
 #30. Sử Dụng MySQL với Node.JS | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
 
 #31. Tái Sử Dụng Connection | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#32. Connection Cost - Tạo Mới Connection ? | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#33. Connection Pool Pattern | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#34. Test Performance Query Database | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#35. Design NavBar | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#36. Design Form Add New User | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#37. Express và Req.body | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#38. Chức Năng Create User | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#39. Design List Users | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
