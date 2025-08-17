@@ -189,3 +189,12 @@ SỰ THẬT về Xây Dựng Website Từ Số 0 | Roadmap Học Lập Trình T�
 #38. Chức Năng Create User | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
 
 #39. Design List Users | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#40. Query List Users | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+        how to pass a value from express to ejs 
+        ejs.co
+
+#41. Display List Users | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+        loop array of object with ejs
+        
+#42. Design View Edit User | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
