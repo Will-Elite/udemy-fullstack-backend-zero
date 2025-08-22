@@ -196,5 +196,19 @@ SỰ THẬT về Xây Dựng Website Từ Số 0 | Roadmap Học Lập Trình T�
 
 #41. Display List Users | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
         loop array of object with ejs
-        
+
 #42. Design View Edit User | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#43. Route params | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#44. Get User By Ids | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#45. Update A User | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#46. Design Form Delete User | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#47. Delete User By Id | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#48. Cải Thiện Trải Nghiệm Giao Diện với Javascript | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
+
+#49. Ưu Nhược Điểm Của Cách Làm Hiện Tại | Khóa Học Node.JS (SQL/MongoDB) Cho Beginners
